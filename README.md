@@ -12,7 +12,16 @@ I'm a Software Engineer from Egypt. I specialize in  Angular, ASPNET CORE, C#, R
 🤝 Open for collaboration on projects
 🧠  I'm learning Microservices, Async Communication, Docker
 
-Skills
-C# JavaScript TypeScript HTML5 NextJs Angular CSS3  NodeJS RESTful APIs MSSQL .NET ADO.NET LINQ Entity Framewor ASP.NET Core MVC Web API SignalR NodeJS WinForms
+## 🔧 Skills
 
+- C#
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- HTML, CSS, JavaScript
+- Angular
+- RESTful APIs
+- MVC
+- WebAPI
+- SignalR
 Feel free to explore my repositories and connect with me. Let's code and build amazing things together! 🚀
